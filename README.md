@@ -6,7 +6,7 @@ This project is made for study purposes.
 </p>
 <p align="center">
 (pt-BR)
-Esse projeto foi desenvolvido para estudos.
+Esse projeto foi desenvolvido para fins de estudo.
 </p>
 
 <p align="center">
