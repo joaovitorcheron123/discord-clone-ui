@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido para fins de estudo.
 </p>
 
 <p align="center">
-  <img src="./src/git/screen.png" height=600px width=1024px/>
+  <img src="./src/git/screen.png" height=512px width=1024px/>
 </p>
 
 ## 🎆 Techs/Tecnologias
